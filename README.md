@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Estudante de Sistemas de Informação (UFU) direcionando carreira para Análise e Ciência de Dados</strong><br>
-  <em>Estagiário de Desenvolvimento no Tribanco (Grupo Martins) — Uberlândia, MG 🇧🇷</em>
+  <em>Base técnica em desenvolvimento e dados transacionais em ambiente financeiro 🇧🇷</em>
 </p>
 
 <p align="center">
@@ -18,9 +18,9 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Sistemas de Informação na UFU** e atualmente estagio no **Tribanco (Grupo Martins)**, onde trabalho com **SQL, APIs e dados transacionais** em rotinas de conciliação e prevenção a fraudes em ambiente financeiro de alto volume.
+Sou estudante de **Sistemas de Informação na UFU**. Atuei recentemente como **estagiário de desenvolvimento no Tribanco (Grupo Martins)**, onde trabalhei com **SQL, APIs e dados transacionais** em rotinas de conciliação e prevenção a fraudes em ambiente financeiro de alto volume.
 
-Comecei minha trajetória em desenvolvimento, mas fui me identificando cada vez mais com a parte de **análise, modelagem e interpretação dos dados** — não só com a construção dos sistemas que os geram. Hoje estou direcionando minha carreira para **Análise e Ciência de Dados**, aproveitando a base sólida que tenho em programação e banco de dados como diferencial.
+Foi durante essa experiência que percebi minha afinidade maior com o lado **analítico dos dados** do que com o desenvolvimento dos sistemas que os geram. Hoje direciono minha carreira para **Análise e Ciência de Dados**, aproveitando a base sólida que tenho em programação e banco de dados como diferencial.
 
 > Minha proposta de valor: **uno a visão analítica de dados com o entendimento técnico de sistemas, APIs e bancos** — combinação especialmente útil em contextos onde precisão, rastreabilidade e regra de negócio importam.
 
@@ -66,7 +66,7 @@ Comecei minha trajetória em desenvolvimento, mas fui me identificando cada vez 
 
 ## 📌 Projetos em destaque
 
-### 📊 [Comparação de Classificadores em Bases Reais](https://github.com/marcospog/classificacao-bank-marketing-bankruptcy)
+### 📊 [Comparação de Classificadores em Bases Reais](https://github.com/marcospog/projeto-classificacao)
 Comparação metodológica entre **KNN, Árvore de Decisão e Random Forest** em duas bases UCI (Bank Marketing e Polish Companies Bankruptcy), com EDA detalhado, pipelines de pré-processamento diferenciados por algoritmo e análise crítica dos resultados.
 
 `Python` · `pandas` · `scikit-learn` · `Matplotlib`
