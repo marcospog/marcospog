@@ -12,6 +12,7 @@ Hoje estou aprofundando .NET (arquitetura em camadas, EF Core, testes) e começa
 a mexer com Angular do lado do front.
 
 **Stack:** C# · .NET · Java · Spring · SQL (PostgreSQL, MySQL) · APIs REST · Git · Docker
+
 **Também uso:** Python (pandas, scikit-learn) em projetos de análise
 
 ### Projetos
